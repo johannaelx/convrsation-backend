@@ -1,7 +1,8 @@
 # ConVRsation (backend)
 Backend for the **ConVRsation**, a VR-based learning application that integrates AI speech models to enable natural spoken dialogue with NPCs inside immersive environments.
 The project explores how real-time voice interaction can support language learning in everyday scenarios such as a bakery or a friend's visit.
-The corresponding Unity environments used to interact with this backend can be downloaded from the ConVRsation Unity Desktop repository and the ConVRsation Unity Quest 3 repository.
+
+The corresponding Unity environments used to interact with this backend can be downloaded from the [ConVRsation Unity repository](https://github.com/johannaelx/convrsation-unity).
 
 # How to Start the Application
 1. Install all required Python packages.
